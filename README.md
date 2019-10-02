@@ -1,2 +1,2 @@
 # pokus
-## Hlavně to udělat _správně 
+## Hlavně to udělat __správně__
