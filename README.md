@@ -1,1 +1,2 @@
-# Digital-electronics-2
+# pokus
+## Hlavně to udělat _správně 
